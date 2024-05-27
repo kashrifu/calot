@@ -5,7 +5,7 @@ function Topbar() {
   return (
     <div className="top-bar">
       <div className="company-logo">
-        <Link legacyBehavior href="/"><a><img src="assets/img/Logo.jpg" alt="" /></a></Link>
+        <Link legacyBehavior href="/"><a><img src="assets/img/Logo.JPG" alt="" /></a></Link>
       </div>
       <div className="search-area">
         <form>
