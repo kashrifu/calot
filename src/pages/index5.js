@@ -7,7 +7,7 @@ import CarFeature from "../components/Home5/FeaturedCar/index";
 import BrandCategory from "../components/Home5/Brand/index";
 import RecentCar from "../components/Home5/RecentCar/index";
 import HowItWork from "../components/Home5/HowItWork/index";
-import WhyCarLot from "../components/Home5/WhyCarLot/WhyChooseUs";
+import WhyCarLot from "../components/Home5/WhyDrivco/WhyChooseUs";
 import TopUseCar from "../components/Home5/TopUseCar/TopUseCar";
 import UpCommingCar from "../components/Home5/UpCommingCar/UpCommingCar";
 import Partner from "../components/Home5/Partnar/Partner";
